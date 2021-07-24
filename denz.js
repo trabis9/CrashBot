@@ -103,11 +103,11 @@ nopref = false
 waktuafk = '-'
 alasanafk = '-'
 prefa = '-'
-namaowner = 'Nirmal PushpaKumara'
-namabot = 'ᴍʀ: ʙᴏᴛ 404 ᴇʀʀᴏʀ'
+namaowner = 'MauModder'
+namabot = 'The MaGyc Team'
 fake = 'ᴍʀ: ʙᴏᴛ 404 ᴇʀʀᴏʀ '
 yuz = '```'
-owner = '94722141376' //ganti pake no lu
+owner = '529996463895' //ganti pake no lu
 numbernye = '0'
 
 //JANGAN DI APA APAIN LAGI BODO
