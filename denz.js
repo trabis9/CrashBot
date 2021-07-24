@@ -107,7 +107,7 @@ namaowner = 'MauModder'
 namabot = 'The MaGyc Team'
 fake = 'ᴍʀ: ʙᴏᴛ 404 ᴇʀʀᴏʀ '
 yuz = '```'
-owner = '529996463895' //ganti pake no lu
+owner = '5219996463895' //ganti pake no lu
 numbernye = '0'
 
 //JANGAN DI APA APAIN LAGI BODO
